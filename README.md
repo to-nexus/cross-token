@@ -1,4 +1,4 @@
-![CROSS: Connecting the World Through Blockchain](CROSS_Github_Banner.png)
+![CROSS: Connecting the World Through Blockchain](CROSS_Banner.png)
 
 # Cross Token 🔗
 
