@@ -40,6 +40,12 @@ Cross Token enables seamless token transfers via a cross-bridge, allowing value 
   - Enabled: true  
   - Runs: 200
 
+## Audit Report
+
+The CROSS project has undergone a security audit by **CertiK**. You can view the detailed audit report via the link below:
+
+- [CertiK Skynet - CROSS](https://skynet.certik.com/projects/cross)
+
 ## Technical Details 🔧
 
 - **Deployment**  
